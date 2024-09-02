@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Testing a Jekyl based site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scottdawsondfe.github.io/jekyl-test/"
+baseurl: "/docs/"
 github_username: scottdawsondfe
 
 # Build settings
