@@ -22,15 +22,14 @@ title: Jekyl Test
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Testing a Jekyl based site
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scottdawsondfe.github.io/"
 baseurl: "/jekyl-test/"
 github_username: scottdawsondfe
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
 markdown: GFM
 
 # Exclude from processing.
