@@ -28,8 +28,7 @@ baseurl: "/jekyl-test/"
 github_username: scottdawsondfe
 
 # Build settings
-#theme: govuk-jekyll-theme
-remote_theme: frankieroberto/govuk-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 markdown: GFM
