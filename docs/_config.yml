@@ -28,6 +28,7 @@ github_username: scottdawsondfe
 
 # Build settings
 #theme: minima
+remote_theme: scottdawsondfe/dfe-frontend-jekyll
 #plugins:
 #  - jekyll-feed
 markdown: GFM
