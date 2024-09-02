@@ -21,7 +21,7 @@
 title: Jekyl Test
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Testing a Jekyl based site with a new remote theme
+  Testing a Jekyl based site
 url: "https://scottdawsondfe.github.io/"
 baseurl: "/jekyl-test/"
 github_username: scottdawsondfe
