@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Storing source code"
 permalink: /storing-source-code
+---
 
 # Storing Source Code
 All of our source code should be open by standard, and stored on a well known and supported hosting service.
